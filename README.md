@@ -31,5 +31,3 @@ This project presents a **weekly Power BI dashboard** for monitoring credit card
 
 ---
 
-## 📂 Folder Structure
-
